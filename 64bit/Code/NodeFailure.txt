@@ -1,0 +1,2 @@
+Node	Failure Time
+2	3000000
